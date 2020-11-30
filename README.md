@@ -1,7 +1,7 @@
 
 Covid-19-Tracker
 
-Covid-19 Tracker is a project bootstrapped with Create React App. I used framework Material-UI as well to build simple components and took data from https://disease.sh/v3/covid-19/all.
+Covid-19 Tracker is a project bootstrapped with Create React App. I used framework Material-UI as well to build simple components and took data from https://disease.sh/v3/covid-19/all. Chart was made with Chart.js.
 
 You have to install node and npm to start this project.
 
