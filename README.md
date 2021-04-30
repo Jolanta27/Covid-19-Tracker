@@ -13,12 +13,12 @@ npm is distributed with Node.js- which means that when you download Node.js, you
 
 
 <h2>How to open a file? 👀 👀</h2>
-- On the right side you will find the "clone or download" button - click it.
-- An item should appear with the "Download ZIP" option - click again.
-- Now you just need to unpack the downloaded file and open it in your favorite editor.
-- You must enter the appropriate folder (command "cd" + file name, e.g. cd excursionfile)
-- You must to install all packages via npm install
-- Then you can start npm start
+- On the right side you will find the "clone or download" button - click it.<br>
+- An item should appear with the "Download ZIP" option - click again.<br>
+- Now you just need to unpack the downloaded file and open it in your favorite editor.<br>
+- You must enter the appropriate folder (command "cd" + file name, e.g. cd excursionfile)<br>
+- You must to install all packages via npm install<br>
+- Then you can start npm start<br>
 
 <h3>The project looks like: </h3>
 
