@@ -19,7 +19,10 @@
 <p>- Now you just need to unpack the downloaded file and open it in your favorite editor.</p>
 <p>- You must enter the appropriate folder (command "cd" + file name, e.g. cd excursionfile)</p>
 <p>- You must to install all packages via npm install</p>
-<p>- Then you can start npm start</p>
+- Then you can start 
+````bash
+  npm start
+  ````
 
 <h3>The project looks like: </h3>
 
