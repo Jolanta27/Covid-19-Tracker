@@ -9,7 +9,7 @@
 
 <p>:pushpin: How to use framework Material-UI to build simple components and take data from https://disease.sh/v3/covid-19/all.</p>
 <p>:pushpin: How to build chart with Chart.js and add map with React Leaflet.</p>
-<p>:pushpin: I practiced React hooks
+<p>:pushpin: I practiced React hooks</p>
 
 
 <h3>How to open a file? 👀 👀</h3>
