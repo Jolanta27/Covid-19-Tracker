@@ -27,4 +27,4 @@
 
 <h3>The project looks like: </h3>
 
-![Screenshot](https://user-images.githubusercontent.com/53143114/116751565-830a1800-aa04-11eb-851b-8425a21b9219.jpeg)
+![covid2](https://user-images.githubusercontent.com/53143114/116817436-9a611680-ab66-11eb-8384-c390a66c14bb.gif)
